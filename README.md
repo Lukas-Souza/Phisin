@@ -27,6 +27,5 @@
   2) Google
   3) Twiter 
 - Pronto agora e so se conectar em qualquer browser através do ip publico ou privado selecionado acima
-- Quando a Vítima reponder aos inputs do formulairo a tudo que estiver colocado no input automaticamnente este sera enviado para você como o exemplo abaixo:![Klai](https://github.com/Lukas-Souza/Phisin/assets/107818658/90ff99d6-d800-4d02-904a-c24a453c4ac9)
 
 <img src="./Klai.png"/>
