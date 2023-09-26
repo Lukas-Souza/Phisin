@@ -20,10 +20,10 @@
 -     3) Credential Harvester Attack Method 
 
 - Em diante aparecerar três opçõs:
-           * Web Templates (Tamplates de sites ja clonado)
-           * Site Clone (Você irar selecionar a site na qual você queira clonar)
-           * Custom Import
-           * Return to Webattack Menu (Voltar ao menu)
+           1) Web Templates (Tamplates de sites ja clonado)
+           2) Site Clone (Você irar selecionar a site na qual você queira clonar)
+           3) Custom Import
+           4) Return to Webattack Menu (Voltar ao menu)
           - No meu caso um particular eu esculhi o
   -     1) Web Templates 
 
